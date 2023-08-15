@@ -4,9 +4,6 @@
 
 <p align="left">Можно связаться со мной по электронной почте: 
 <a href="mailto:gubina.marina.n@gmail.com"><b>gubina.marina.n@gmail.com</b></a>. Открыта для сотрудничества и новых возможностей.</p>
-<p align="left">Мой профиль на <b>LeetCode</b>:
-<a href="https://www.leetcode.com/marina_gubina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/marina_gubina/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Навыки:</h3>
 
@@ -16,6 +13,10 @@
 [![My Skills](https://skillicons.dev/icons?i=maven,docker,postman&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=idea&theme=light)](https://skillicons.dev)
+
+<p align="left">Мой профиль на <b>LeetCode</b>:
+<a href="https://www.leetcode.com/marina_gubina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/marina_gubina/" height="30" width="40" /></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinagubina&show_icons=true&locale=en&layout=compact" alt="marinagubina" /></p>
 
