@@ -1,16 +1,21 @@
-<h1 align="center">Hi there, I'm Marina</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="left">Java developer from Saint Petersburg</p>
+<h3 align="center">Привет, меня зовут Марина</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
+<p align="left"><b>Я Java-разработчик из Санкт-Петербурга. Добро пожаловать в мой профиль на GitHub! Здесь вы найдете некоторые из моих проектов и примеры кода.</b></p>
 
-📫 How to reach me: **gubina.marina.n@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Можно связаться со мной по электронной почте: 
+<a href="mailto:gubina.marina.n@gmail.com"><b>gubina.marina.n@gmail.com</b></a>. Открыта для сотрудничества и новых возможностей.</p>
+<p align="left">Мой профиль на <b>LeetCode</b>:
 <a href="https://www.leetcode.com/marina_gubina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/marina_gubina/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="left">Навыки:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,hibernate,git&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=maven,docker,postman&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinagubina&show_icons=true&locale=en&layout=compact" alt="marinagubina" /></p>
 
